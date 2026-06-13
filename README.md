@@ -28,10 +28,12 @@
 
 ## About Me
 
-Computer Science & Communication Engineering student at KIIT University with interests in Software Engineering, Backend Development, Distributed Systems, and Generative AI.
+Computer Science & Communication Engineering student at KIIT University.
 
-**Tech Focus**
-- Full Stack Development (MERN)
+Interested in Software Engineering, Backend Development, Distributed Systems, Cloud Computing, and Generative AI.
+
+**Focus Areas**
+- Full Stack Development
 - Backend Engineering
 - REST APIs
 - RAG & LLM Applications
@@ -101,32 +103,6 @@ LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Ve
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Diyaasha/spotify-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=spotify-clone&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Diyaasha/simon-says-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=simon-says-game&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Diyaasha/car-rental-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=car-rental-system&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Diyaasha/mini-query-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=mini-query-engine&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Diyaasha/PASHUMITRA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=PASHUMITRA&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ## GitHub Statistics
@@ -143,7 +119,7 @@ LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Ve
 
 ---
 
-## Contribution Activity
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyaasha&theme=tokyo-night&hide_border=true" />
@@ -182,5 +158,9 @@ LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Ve
 
   <a href="https://github.com/Diyaasha">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://leetcode.com/u/oC39Kx6YSb">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
