@@ -1,24 +1,138 @@
-# 💫 About Me:
-<br>🎓 B.Tech student in **Computer Science & Communication Engineering (CSCE)** at KIIT University<br>💡 Curious builder passionate about solving real-world problems through tech<br><br>🎯 **Aspiring AI/ML Engineer** exploring the intersection of technology, creativity, and impactful solutions<br><br>🔬 **Currently diving into:**<br>🧠 Artificial Intelligence & Machine Learning<br>👁️ Computer Vision <br>📊 Data Structures & Algorithms<br><br>💻 **Hands-on with:**<br>Python, Java, C, Android Development, Web Development (HTML, CSS, JS), Cybersecurity<br><br>🚀 **Projects:**<br>• MediVault – Smart patient health record & reminder system with secure data storage and automated medication alerts<br>• Object detection system using deep learning models<br>• Automation system for smart clothing recommendations<br><br>🤝 **Open to:**<br>Internship opportunities to gain real-world experience and contribute to meaningful projects<br><br>💬 **Ask me about:**<br>AI/ML, DSA, Android apps, or building end-to-end tech projects<br><br>⚡ **Fun fact:**<br>I enjoy turning ideas into working products more than just keeping them on paper<br>
+```md
+<h1 align="center">Hi 👋, I'm Diyasha Nag</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+GenAI+Enthusiast;Full+Stack+Engineer;Always+Building+%26+Learning" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diyasha.nag.004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diyasha-nag-1215b52b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyashanag23@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Diyaasha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Diyaasha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Diyaasha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Diyaasha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diyaasha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Diyaasha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ☕ About Me
+
+<img align="right" alt="coding" width="260" src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png"/>
+
+🎓 B.Tech in Computer Science & Communication Engineering at KIIT University
+
+🚀 Passionate about Software Engineering, AI, and Full Stack Development
+
+🧠 Currently exploring:
+- Generative AI & LLMs
+- Backend Engineering
+- Data Structures & Algorithms
+- Cloud Technologies
+
+💻 Building real-world applications using MERN Stack, Java, Python, and AI tools
+
+🤝 Open to Software Engineering, Full Stack, and AI/ML opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Core
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🗄️ Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🤖 AI & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+NumPy • Pandas • OpenCV • Gemini API • LLMs • GenAI
+
+---
+
+## 🚀 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Diyaasha/MEDI-VAULT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=MEDI-VAULT&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/Diyaasha/SMARTQUEUE-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=SMARTQUEUE-AI&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Diyaasha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=YOUR_THIRD_REPO&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/Diyaasha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=YOUR_FOURTH_REPO&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diyaasha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyaasha&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyaasha&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/diyasha-nag-1215b52b3">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:diyashanag23@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://github.com/Diyaasha">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://instagram.com/diyasha.nag.004">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+## ⚡ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+⭐ Building software, exploring AI, and turning ideas into real products.
+</p>
+```
