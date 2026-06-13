@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Diyasha Nag</h1>
 
+<h3 align="center">Software Developer • Full Stack Engineer • AI & GenAI Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+GenAI+Enthusiast;Full+Stack+Engineer;Always+Building+%26+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Engineer;AI+%26+GenAI+Enthusiast;Backend+Developer;Always+Building+%26+Learning" />
 </p>
 
 <p align="center">
@@ -13,27 +14,35 @@
 
 ## ☕ About Me
 
-<img align="right" alt="coding" width="260" src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png"/>
+🎓 B.Tech in Computer Science & Communication Engineering at KIIT University (CGPA: 9.35)
 
-🎓 B.Tech in Computer Science & Communication Engineering at KIIT University
+💡 Backend-focused Full Stack Developer passionate about building scalable applications, AI-powered systems, and real-world software solutions.
 
-🚀 Passionate about Software Engineering, AI, and Full Stack Development
-
-🧠 Currently exploring:
-- Generative AI & LLMs
+🚀 Currently Exploring:
+- Generative AI & LLM Applications
+- Agentic AI & RAG Systems
+- Distributed Systems
 - Backend Engineering
-- Data Structures & Algorithms
 - Cloud Technologies
 
-💻 Building real-world applications using MERN Stack, Java, Python, and AI tools
+💻 Core Expertise:
+- Full Stack Development (MERN)
+- RESTful API Development
+- Authentication & Authorization
+- AI Integration & Vector Search
+- Cloud Deployment & DevOps
 
-🤝 Open to Software Engineering, Full Stack, and AI/ML opportunities
+🌱 Working With:
+Node.js • Express.js • React.js • MongoDB • Redis • LangChain • ChromaDB • Gemini API • Docker • Kubernetes
+
+🤝 Open to:
+Software Engineering • Backend Development • Full Stack Development • AI/ML Opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Core
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,47 +53,54 @@
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Database & Cloud
+### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🤖 AI & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-NumPy • Pandas • OpenCV • Gemini API • LLMs • GenAI
+### 🤖 AI / ML
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**GenAI • LLMs • RAG • Vector Embeddings • ChromaDB • Gemini API • NumPy • Pandas**
 
 ---
 
 ## 🚀 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/Diyaasha/MEDI-VAULT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=MEDI-VAULT&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Diyaasha/MEDI-VAULT-2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=MEDI-VAULT-2.0&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/Diyaasha/SMARTQUEUE-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=SMARTQUEUE-AI&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/SmartQueue-Ai/smartqueue-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmartQueue-Ai&repo=smartqueue-ai&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Diyaasha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=YOUR_THIRD_REPO&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/AnoushkaNag/PRAGMA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnoushkaNag&repo=PRAGMA&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/Diyaasha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=YOUR_FOURTH_REPO&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/prachi-2506/RupeeWise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prachi-2506&repo=RupeeWise&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -118,21 +134,18 @@ NumPy • Pandas • OpenCV • Gemini API • LLMs • GenAI
   <a href="https://github.com/Diyaasha">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-
-  <a href="https://instagram.com/diyasha.nag.004">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 ---
 
 ## ⚡ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
 <p align="center">
-⭐ Building software, exploring AI, and turning ideas into real products.
+⭐ Building scalable software, AI-powered systems, and real-world products.
 </p>
-
