@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Engineer;AI+%26+GenAI+Enthusiast;Backend+Developer;Always+Building+%26+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Engineer;AI+%26+GenAI+Enthusiast;Backend+Developer;Always+Building+%26+Learning" />
 </p>
 
 <p align="center">
@@ -30,14 +30,7 @@
 
 Computer Science & Communication Engineering student at KIIT University.
 
-Interested in Software Engineering, Backend Development, Distributed Systems, Cloud Computing, and Generative AI.
-
-**Focus Areas**
-- Full Stack Development
-- Backend Engineering
-- REST APIs
-- RAG & LLM Applications
-- Cloud & DevOps
+Focused on Software Engineering, Backend Development, Full Stack Applications, Cloud Computing, and Generative AI.
 
 ---
 
@@ -85,21 +78,21 @@ LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Ve
 
 <p align="center">
   <a href="https://github.com/Diyaasha/MEDI-VAULT-2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=MEDI-VAULT-2.0&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyaasha&repo=MEDI-VAULT-2.0&theme=github_dark&hide_border=true" />
   </a>
 
   <a href="https://github.com/SmartQueue-Ai/smartqueue-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmartQueue-Ai&repo=smartqueue-ai&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmartQueue-Ai&repo=smartqueue-ai&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AnoushkaNag/PRAGMA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnoushkaNag&repo=PRAGMA&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnoushkaNag&repo=PRAGMA&theme=github_dark&hide_border=true" />
   </a>
 
   <a href="https://github.com/prachi-2506/RupeeWise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prachi-2506&repo=RupeeWise&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prachi-2506&repo=RupeeWise&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
@@ -108,21 +101,13 @@ LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Ve
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diyaasha&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diyaasha&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyaasha&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyaasha&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyaasha&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyaasha&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyaasha&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -130,17 +115,17 @@ LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Ve
 ## Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diyaasha&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diyaasha&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyaasha&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diyaasha&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyaasha&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diyaasha&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyaasha&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diyaasha&theme=tokyonight&utcOffset=5.5" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyaasha&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diyaasha&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
@@ -164,3 +149,4 @@ LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Ve
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
+
