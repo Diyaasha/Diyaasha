@@ -32,7 +32,13 @@ Computer Science & Communication Engineering student at KIIT University.
 
 Focused on Software Engineering, Backend Development, Full Stack Applications, Cloud Computing, and Generative AI.
 
----
+**Focus Area:**
+
+- Full Stack Development
+- Backend Engineering
+- REST APIs
+- RAG & LLM Applications
+- Cloud & DevOps
 
 ## Tech Stack
 
@@ -70,7 +76,13 @@ Focused on Software Engineering, Backend Development, Full Stack Applications, C
 
 ### AI / ML
 
-LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Vector Embeddings
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-System-blue?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Applications-purple?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-API-4285F4?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -112,20 +124,21 @@ LangChain • RAG • LLMs • Gemini API • OpenCV • NumPy • Pandas • Ve
 
 ---
 
-## Activity Overview
+## Activity
+
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diyaasha&theme=github_dark" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diyaasha&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyaasha&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diyaasha&theme=github_dark" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyaasha&theme=github_dark" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diyaasha&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyaasha&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diyaasha&theme=github_dark&utcOffset=5.5" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyaasha&theme=github_dark" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diyaasha&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
